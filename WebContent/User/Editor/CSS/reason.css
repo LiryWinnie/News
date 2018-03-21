@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.pages{
+	float:left;
+	margin-left:60px;
+	margin-top:17px;
+	border-style:solid;
+	border-color: #3A3A3A;
+	width:925px;
+}
+.ta{
+	float:left;
+	margin-left:60px;
+	margin-top:17px;
+	width:925px;
+	font-size:30px;
+}
+th{
+	height:20px;
+	width:200px;
+	color:#fff;
+	background:#3A3A3A;
+}
+td{
+	font-size:16px;
+	height:20px;
+	width:724px
+}

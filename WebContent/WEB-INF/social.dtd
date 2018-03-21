@@ -1,0 +1,9 @@
+<!ELEMENT history (news)>
+<!ELEMENT news (title,id,category,content,statu,time,writer)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT statu (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT writer (#PCDATA)>
